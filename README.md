@@ -100,8 +100,7 @@ npx wrangler pages deploy dist --project-name emsea
 - [ ] Implement blog/news section
 
 ## 🎨 Logo Concepts Generated
-- Concept 1: https://www.genspark.ai/api/files/s/8wWgSzuL
-- Concept 2: https://www.genspark.ai/api/files/s/2NAgeRQc
+- https://github.com/DokPlay/EM-SEA---Corporate-Website/blob/main/public/static/favicon.svg
 
 ## 💻 Tech Specifications
 - **Framework**: Hono v4.x
@@ -110,7 +109,7 @@ npx wrangler pages deploy dist --project-name emsea
 - **Languages**: TypeScript, HTML, CSS, JavaScript
 
 ## 📞 Contact Information (Demo)
-- Email: info@emsea.com.hk
+- Email: 
 - Location: Hong Kong
 
 ---
