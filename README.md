@@ -7,9 +7,8 @@
 - **Tech Stack**: Hono + TypeScript + TailwindCSS + Cloudflare Pages
 
 ## 🌐 Demo URLs
-- **Preview**: https://3000-ivkze13h38nf78fq9pd76-2e1b9533.sandbox.novita.ai
-- **English**: https://3000-ivkze13h38nf78fq9pd76-2e1b9533.sandbox.novita.ai/?lang=en
-- **Chinese**: https://3000-ivkze13h38nf78fq9pd76-2e1b9533.sandbox.novita.ai/?lang=zh
+- **Preview**: https://34873f8c.emsea.pages.dev/
+
 
 ## ✅ Completed Features
 1. **Bilingual Interface (EN/中文)**
