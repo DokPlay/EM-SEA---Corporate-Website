@@ -115,4 +115,4 @@ npx wrangler pages deploy dist --project-name emsea
 
 ---
 
-© 2025 EM SEA. All rights reserved.
+© 2025 DokPlay EM SEA. All rights reserved. MIT
